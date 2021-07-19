@@ -1,7 +1,6 @@
 import java.util.HashMap;
 import java.util.Map;
 
-// kkalinski@box.com
 public class DataStore {
 
   private final Map<String, Integer> map = new HashMap<>();
